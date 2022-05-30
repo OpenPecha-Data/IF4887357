@@ -1,0 +1,26 @@
+id: IF4887357
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:47:51.492443'
+last_modified: '2022-05-30T21:47:51.492465'
+parser: null
+source_metadata:
+  title: Jigdral Tutop Lingpa Series
+  language: en
+  description: 'Texts revealed by the tertön Ngawang Tendzin (ngag dbang bstan ''dzin,
+    1858–1914) also known as Jigdral Tutop Lingpa (''jigs bral mthu stobs gling pa):'
+  volume:
+    f6840:
+      title: A Powerful Pith Instruction to Abstain from Tobacco, the Tenacious Demon
+        Plaguing People of Degenerate Times
+      base_file: f6840.txt
+      order: 1
+      parent: Ethical Guidelines
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
